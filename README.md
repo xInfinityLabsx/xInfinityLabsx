@@ -1,4 +1,12 @@
-## Hi there 👋
+## WELCOME TO INFINITY LABS GITHUB 👋
+
+**LANGUAGES**
+HTML
+CSS
+LUA
+JS
+Solidity
+C++
 
 <!--
 **xInfinityLabsx/xInfinityLabsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
