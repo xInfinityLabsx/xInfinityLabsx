@@ -1,12 +1,16 @@
 ## WELCOME TO INFINITY LABS GITHUB 👋
 
-**LANGUAGES**
-HTML
-CSS
-LUA
-JS
-Solidity
+**LANGUAGES**\
+HTML\
+CSS\
+LUA\
+JS\
+Solidity\
 C++
+
+**THE BLOCK RP SERVER**\
+https://discord.gg/mgJnRmZWKv
+
 
 <!--
 **xInfinityLabsx/xInfinityLabsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
