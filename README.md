@@ -1,11 +1,11 @@
 ## WELCOME TO INFINITY LABS GITHUB 👋
 
 **LANGUAGES**\
+Solidity\
 HTML\
 CSS\
 LUA\
 JS\
-Solidity\
 C++
 
 **THE BLOCK RP SERVER**\
